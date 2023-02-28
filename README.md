@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **fun projects with fun people that are willing to increase life quality with software**
 
-<h3 align="left">Connect with me:</h3>
+- 👨‍💻 https://pauloliedtke.super.site/
 <p align="left">
 </p>
 
