@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud, DevOps and a bit of Unity**
 
-- 👯 I’m looking to collaborate on **fun projects with fun people that are willing to increase life quality with software**
+- 👯 I’m looking to collaborate on fun projects with fun people. 
 
 <p align="left">
 </p>
