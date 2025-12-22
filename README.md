@@ -1,8 +1,7 @@
-# Hi, I'm Paulo
+# Hi, I'm Paulo 👋
 
-### At the moment, I am interested in control systems for quantum experiments.
-### Therefore, I am learning to program FPGAs to act as high-frequency signal generators.
+I'm currently interested in **control systems for quantum experiments and quantum computers**.  
+To support this, I'm learning how to program **FPGAs** to act as **high-frequency signal generators**.
 
-### I also work as a full-stack developer for a scale-up company in the maritime sector.
-### Here, I mainly focus on AWS and frontend/backend shenanigans to build data pipelines that grab data from ships scattered all around the globe.
-
+I also work as a **full-stack developer** at a **scale-up in the maritime sector**.  
+My work mainly involves **AWS** and **frontend/backend development**, building **data pipelines** that collect and process data from ships scattered across the globe.
